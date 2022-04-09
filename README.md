@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-conner&count_private=true&show_icons=true&theme=light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianlee1940x&count_private=true&show_icons=true&theme=light)
 
 <!--
 **Brian-Conner/brian-conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
